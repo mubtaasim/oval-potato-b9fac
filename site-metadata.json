@@ -35,7 +35,7 @@
             {
                 "type": "action",
                 "template": "action",
-                "label": "Contact",
+                "label": "যোগাযোগ",
                 "url": "/contact",
                 "style": "link"
             }
