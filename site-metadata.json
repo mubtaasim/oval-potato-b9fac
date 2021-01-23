@@ -1,14 +1,14 @@
 {
   "title": "Songrihito Blog- Collected Islamic Post from Facebook",
-  "palette": "yellow",
+  "palette": "green",
   "header": {
     "type": "header",
     "template": "header",
-    "title": "Fjord",
+    "title": "সংগৃহীতব্লগ",
     "tagline": "ইসলামিক ফেসবুক পোস্ট",
     "logo_img": "images/logo.svg",
     "logo_img_alt": "Fjord Logo",
-    "background_img": "images/header-bg.jpg",
+    "background_img": "/images/5.jpg",
     "has_nav": true,
     "nav_links": [
       {
