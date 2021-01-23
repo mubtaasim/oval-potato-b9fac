@@ -28,7 +28,7 @@
             {
                 "type": "action",
                 "template": "action",
-                "label": "Style Guide",
+                "label": "ক্যাটাগরি",
                 "url": "/style-guide",
                 "style": "link"
             },
